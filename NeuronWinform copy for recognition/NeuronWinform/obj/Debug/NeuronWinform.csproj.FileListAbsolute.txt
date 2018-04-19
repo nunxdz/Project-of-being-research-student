@@ -1,0 +1,66 @@
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\Accord.dll.config
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\NeuronWinform.exe
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\NeuronWinform.pdb
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\Accord.dll
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\Accord.Math.dll
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\Accord.Statistics.dll
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\Accord.xml
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\Accord.Math.xml
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\bin\Debug\Accord.Statistics.xml
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\obj\Debug\NeuronWinform.MainWindow.resources
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\obj\Debug\NeuronWinform.Properties.Resources.resources
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\obj\Debug\NeuronWinform.csproj.GenerateResource.Cache
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\obj\Debug\NeuronWinform.exe
+C:\Users\Nantana_Run\Desktop\Hanwriting + Demo\NeuronWinform\NeuronWinform\obj\Debug\NeuronWinform.pdb
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\Accord.dll.config
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\NeuronWinform.exe
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\NeuronWinform.pdb
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\Accord.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\Accord.Math.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\Accord.Statistics.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\Accord.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\Accord.Math.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\bin\Debug\Accord.Statistics.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\obj\Debug\NeuronWinform.MainWindow.resources
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\obj\Debug\NeuronWinform.Properties.Resources.resources
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\obj\Debug\NeuronWinform.csproj.GenerateResource.Cache
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\obj\Debug\NeuronWinform.exe
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy\NeuronWinform\obj\Debug\NeuronWinform.pdb
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\obj\Debug\NeuronWinform.exe
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\obj\Debug\NeuronWinform.pdb
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\Accord.dll.config
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\NeuronWinform.exe
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\NeuronWinform.pdb
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\Accord.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\Accord.Math.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\Accord.Statistics.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\Accord.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\Accord.Math.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\bin\Debug\Accord.Statistics.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\obj\Debug\NeuronWinform.csprojResolveAssemblyReference.cache
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\obj\Debug\NeuronWinform.MainWindow.resources
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\obj\Debug\NeuronWinform.Properties.Resources.resources
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy - コピー\NeuronWinform\obj\Debug\NeuronWinform.csproj.GenerateResource.Cache
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\obj\Debug\NeuronWinform.exe
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\obj\Debug\NeuronWinform.pdb
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\Accord.dll.config
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\NeuronWinform.exe
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\NeuronWinform.pdb
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\Accord.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\Accord.Math.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\Accord.Statistics.dll
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\Accord.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\Accord.Math.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\bin\Debug\Accord.Statistics.xml
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\obj\Debug\NeuronWinform.MainWindow.resources
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\obj\Debug\NeuronWinform.Properties.Resources.resources
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\obj\Debug\NeuronWinform.csproj.GenerateResource.Cache
+C:\Users\Nantana_Run\Desktop\for master hapyou\NeuronWinform copy for recognition\NeuronWinform\obj\Debug\NeuronWinform.csprojResolveAssemblyReference.cache
